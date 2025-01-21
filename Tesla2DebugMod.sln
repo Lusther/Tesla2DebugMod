@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tesla2DebugMod", "Tesla2DebugMod.csproj", "{BA6726D9-41B5-416D-AC2B-E66A2525DF5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA6726D9-41B5-416D-AC2B-E66A2525DF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6726D9-41B5-416D-AC2B-E66A2525DF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6726D9-41B5-416D-AC2B-E66A2525DF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6726D9-41B5-416D-AC2B-E66A2525DF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E51556F-B4DE-4E08-91EB-8ED22AFD0A93}
+	EndGlobalSection
+EndGlobal
