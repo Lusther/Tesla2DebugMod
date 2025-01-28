@@ -402,7 +402,9 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+		<Compile Include="AbilityMenu.cs" />
 		<Compile Include="Core.cs" />
+		<Compile Include="SaveDataSlotExtensions.cs" />
 	</ItemGroup>
 	
 	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
