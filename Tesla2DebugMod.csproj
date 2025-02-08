@@ -403,8 +403,11 @@
 
 	<ItemGroup>
 		<Compile Include="AbilityMenu.cs" />
+		<Compile Include="Chrono.cs" />
 		<Compile Include="Core.cs" />
 		<Compile Include="SaveDataSlotExtensions.cs" />
+		<Compile Include="TrainingTool.cs" />
+		<Compile Include="TrainingToolMenu.cs" />
 	</ItemGroup>
 	
 	<Target Name="PostBuild" AfterTargets="PostBuildEvent">
